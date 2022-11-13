@@ -179,6 +179,26 @@ HID  CD2  C      0.1292
 HID  HD2  H      0.1147
 HID  C    C      0.5973
 HID  O    O     -0.5679
+# Histidine (HIS, by default, we will use HIS +, positively charged)
+HIS  N    N     -0.3479
+HIS  H    HN     0.2747
+HIS  CA   C     -0.1354
+HIS  HA   H      0.1212
+HIS  CB   C     -0.0414
+HIS  HB1  H      0.0810
+HIS  HB2  H      0.0810
+HIS  HB3  H      0.0810
+HIS  CG   C     -0.0012
+HIS  ND1  NC    -0.1513
+HIS  HD1  HN     0.3866
+HIS  CE1  C     -0.0170
+HIS  HE1  H      0.2681
+HIS  NE2  NC    -0.1718
+HIS  HE2  HN     0.3911
+HIS  CD2  C     -0.1141
+HIS  HD2  H      0.2317
+HIS  C    C      0.7341
+HIS  O    O     -0.5894
 # Histidine E-H
 HIE  N    N     -0.4157
 HIE  H    HN     0.2719
