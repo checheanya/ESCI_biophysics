@@ -1,6 +1,6 @@
 # Biophysics project, November 2022
 
-> by Igor Trujnara, Anastasia Sukhorukova and Anna Chechenina
+> *by Igor Trujnara, Anastasia Sukhorukova and Anna Chechenina*
 
 In this repository you can find all materials related to the SARS-CoV-2 and ACE2 interaction enery calculation project on Biophysics cousre 2022 at ESCI-UPF. 
 The full script could be found in the project notebook and it contains few steps:
